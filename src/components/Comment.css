@@ -1,0 +1,30 @@
+.UserInfo img {
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+}
+
+.Comment {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+
+.comment-first {
+  background-color: bisque;
+  width: 200px;
+  border: 2px solid brown;
+  border-radius: 30px;
+  box-shadow: 3px 2px rgba(0, 0, 0, 0.514);
+  font-size: large;
+}
+
+.comment-second {
+  background-color:bisque;
+  width: 200px;
+  border: 2px solid brown;
+  box-shadow: 3px 2px rgba(0, 0, 0, 0.514) ;
+font-size: large;
+
+}
